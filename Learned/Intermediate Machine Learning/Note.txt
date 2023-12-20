@@ -1,0 +1,11 @@
+Features selection procedure
+
+1) Feature Importance from Tree-based Models (e.g., Random Forest, XGBoost)
+2) Recursive Feature Elimination (RFE) 
+3) L1 Regularization (Lasso):
+4) Mutual Information:
+5) Sequential Feature Selection:
+6) Principal Component Analysis (PCA):
+7) Domain Knowledge:
+8) Recursive Feature Addition:
+9) Feature Engineering:
